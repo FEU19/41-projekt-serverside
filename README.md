@@ -1,4 +1,11 @@
 # Serverside programmering
+[Individuellt projekt](#Individuellt projekt)
+[Uppgift](#Uppgift)
+[Kravspec](#Kravspec)
+[Bedömning](#Bedömning)
+[Inlämning](#Inlämning)
+[Publicering / deploy](#Publicering / deploy)
+
 ## Individuellt projekt
 
 ### Uppgift
